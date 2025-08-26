@@ -49,7 +49,7 @@ API de locais pet-friendly com autenticação, cadastro de usuários, favoritos,
 ## 📚 Certificações
 
 ✅ ISTQB® Certified Tester Foundation Level (CTFL 4.0)  
-✅ Mentoria 2.0 – Júlio de Lima (Grupo 13)   
+✅ Mentoria 2.0 – Júlio de Lima  
 
 ---
 
