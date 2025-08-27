@@ -5,16 +5,16 @@ Sou Analista de Qualidade de Software com uma trajetória enriquecida por experi
 
 ## 📝 Sobre mim
 
-🎯 QA Pleno com atuação em múltiplas frentes (API, Web, Mobile)  
-📚 Formada em ADS, pós-graduada em Engenharia de Software e certificada ISTQB CTFL 4.0  
-🔄️ Realizei transição de carreira do Direito para Tecnologia 
-🧪 Experiência com testes manuais, exploratórios, regressivos, usabilidade, API, e testes mobile 
-🧩 Executo testes ponta a ponta e estruturação de planos de teste com rastreabilidade e cobertura  
-📝 Destaque em documentação de testes: Plano de teste, Descrição de Requisitos, Registro de Defeitos, etc
-✏️ Escrita de cenários de teste em Gherkin
-🤝 Participação ativa em refinamentos, análises de bugs e cerimônias Scrum  
-📊 Validações com SQL em banco de dados, análise de logs e comportamento do sistema  
-🔧 Conhecimento em automação de testes com Cypress, Mocha, Supertest e testes de performance com K6 e JMeter
+* 🎯 QA Pleno com atuação em múltiplas frentes (API, Web, Mobile)  
+* 📚 Formada em ADS, pós-graduada em Engenharia de Software e certificada ISTQB CTFL 4.0  
+* 🔄️ Realizei transição de carreira do Direito para Tecnologia  
+* 🧪 Experiência com testes manuais, exploratórios, regressivos, usabilidade, API e testes mobile  
+* 🧩 Executo testes ponta a ponta e estruturação de planos de teste com rastreabilidade e cobertura  
+* 📝 Destaque em documentação de testes: Plano de Teste, Descrição de Requisitos, Registro de Defeitos, etc  
+* ✏️ Escrita de cenários de teste em Gherkin  
+* 🤝 Participação ativa em refinamentos, análises de bugs e cerimônias Scrum  
+* 📊 Validações com SQL em banco de dados, análise de logs e comportamento do sistema  
+* 🔧 Conhecimento em automação de testes com Cypress, Mocha, Supertest e testes de performance com K6 e JMeter  
 
 ---
 
