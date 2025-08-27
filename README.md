@@ -70,6 +70,6 @@ API de locais pet-friendly com autenticação, cadastro de usuários, favoritos,
 
 ## 😊 Vamos nos conectar?
 
-🖥️ [LinkedIn - emanuelefraga](https://www.linkedin.com/in/emanuelfraga)  
+🖥️ [LinkedIn - emanuelefraga](https://www.linkedin.com/in/emanuele-fraga/)  
 
 ---
